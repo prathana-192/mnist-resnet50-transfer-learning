@@ -1,7 +1,7 @@
 # mnist-resnet50-transfer-learning
 
-This project applies **transfer learning** using **ResNet50 (pretrained on ImageNet)** to classify digits from the **MNIST dataset**.  
-The grayscale digits are resized into **96×96 RGB images** to match the ResNet50 input requirements.
+This project applies transfer learning using ResNet50 (pretrained on ImageNet) to classify digits from the MNIST dataset.  
+The grayscale digits are resized into 96×96 RGB images to match the ResNet50 input requirements.
 
 The workflow includes:
 - Preprocessing MNIST digits into RGB images
