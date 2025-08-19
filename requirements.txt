@@ -1,0 +1,11 @@
+Python 3.8+
+
+TensorFlow
+
+NumPy
+
+OpenCV
+
+Matplotlib
+
+scikit-learn
