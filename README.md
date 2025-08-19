@@ -12,7 +12,6 @@ The workflow includes:
 - Accuracy plots
 
 #Installation
-
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/Prathana-192/mnist-resnet50-transfer-learning.git
